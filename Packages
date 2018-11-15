@@ -1,0 +1,14 @@
+Package: com.thuanvodka.applewatchtime
+Name: Apple Watch Time
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Apple Watch Time on your lock screen.
+Homepage: https://thuanvodka.github.io
+Depends: com.matchstic.xenhtml
+Section: Widgets (Lockscreen)
+Author: AussieAppz <info@aussieappz.com>
+Maintainer: thuan <thuanvodka@gmail.com>
+Filename: ./debs/com.thuanvodka.applewatchtime.deb
+Size: 114432
+MD5sum: e7de054ff4e08b6f65ec03c2cac7c368
+Depiction: https://thuanvodka.github.io/depictions/?p=com.thuanvodka.applewatchtime
